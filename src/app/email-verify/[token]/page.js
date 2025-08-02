@@ -2,7 +2,7 @@
 import EmailVerifyArea from "@components/email-verify-area";
 
 export const metadata = {
-  title: "Email Verification - Harri Shop",
+  title: "Email Verification - Techora Shop",
 };
 const EmailVerification = async ({ params }) => {
   const { token } = await params;

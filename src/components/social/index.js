@@ -31,7 +31,9 @@ const SocialLinks = () => {
   return (
     <>
       {social_links.map((l, i) => (
-        <a key={i} href={l.link} target={l.target}>
+        <a key={i} 
+        // href={l.link}
+         target={l.target}>
           <i className={l.icon}></i>
         </a>
       ))}
