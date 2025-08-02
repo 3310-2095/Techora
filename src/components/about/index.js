@@ -15,7 +15,7 @@ const About = () => {
         subtitle="About us"
         title={
           <>
-            Welcome to our <br /> Harri Shop
+            Welcome to our <br /> Techora Shop
           </>
         }
       />

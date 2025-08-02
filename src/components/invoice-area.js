@@ -16,7 +16,7 @@ export default function InvoiceArea({innerRef,info}) {
               <div className="row align-items-end">
                 <div className="col-md-4 col-sm-6">
                   <div className="invoice__left">
-                    <Image className="mb-15" priority src="/assets/img/logo/logo-black.svg" alt="logo" width={112} height={42} />
+                    <Image className="mb-15" priority src="/assets/img/logo/logo.png" alt="logo" width={112} height={42} />
                     <p>
                       2879 Elk Creek Road <br /> Stone Mountain, Georgia
                     </p>

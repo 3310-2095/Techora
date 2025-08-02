@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 // internal
-import logo from '@assets/img/logo/logo-black.svg';
+import logo from '@assets/img/logo/logo.png';
 import payment from '@assets/img/footer/footer-payment.png';
 import SocialLinks from "@components/social";
 import CopyrightText from "./copyright-text";
@@ -113,7 +113,7 @@ const Footer = () => {
                       <div className="footer__contact">
                         <div className="footer__contact-call">
                           <span>
-                            <a href="tel:624-423-26-72">+624 423 26 72</a>
+                            <a href="tel:624-423-26-72">+123 456 780</a>
                           </span>
                         </div>
                         <div className="footer__contact-mail">

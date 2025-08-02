@@ -5,7 +5,7 @@ import AboutArea from "@components/about";
 import Footer from "@layout/footer";
 
 export const metadata = {
-  title: "About - Harri Shop",
+  title: "About - Techora Shop",
 };
 const About = () => {
   return (
